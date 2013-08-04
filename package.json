@@ -1,0 +1,30 @@
+{
+  "name": "lut-struct",
+  "description": "Interpolating Look-Up Tables",
+  "version": "0.1.0",
+  "homepage": "https://github.com/imbcmdth/lut-struct",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imbcmdth/lut-struct.git"
+  },
+  "author": {
+    "name": "Jon-Carlos Rivera",
+    "email": "jon.carlos.rivera@gmail.com",
+    "url": "http://jon-carlos.com"
+  },
+  "keywords": [
+    "linear interpolation",
+    "look up table",
+    "LUT",
+    "uniform",
+    "key-value"
+  ],
+  "main": "./lib",
+  "devDependencies": {
+    "mocha": "1.8.1"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "license": "MIT"
+}
