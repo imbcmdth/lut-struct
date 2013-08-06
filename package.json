@@ -1,7 +1,7 @@
 {
   "name": "lut-struct",
   "description": "Interpolating Look-Up Tables",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/imbcmdth/lut-struct",
   "repository": {
     "type": "git",
